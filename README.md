@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/fosscord/fosscord/master/assets-rebrand/svg/Fosscord-Icon-Rounded-Subtract.svg" />
+  <img width="100" src="https://cdn.discordapp.com/icons/501202509239549952/22220c5c73eb979aa0c1f74b8588dc76.webp?size=240" />
 </p>
-<h1 align="center">Fosscord Server</h1>
+<h1 align="center">Gappa Squad Server</h1>
 
 <p align="center">
-  <a href="https://discord.gg/ZrnGQP6p3d">
+  <a href="hhttps://discord.gg/WWNYqXap">
     <img src="https://img.shields.io/discord/806142446094385153?color=7489d5&logo=discord&logoColor=ffffff" />
   </a>
   <img src="https://img.shields.io/static/v1?label=Status&message=Development&color=blue">
@@ -14,15 +14,15 @@
   </a>
 </p>
 
-## [About](https://fosscord.com)
+## [About](https://labs.techspaces.club)
 
 This repository contains:
 
--   [Fosscord HTTP API Server](/src/api)
+-   [GS Server HTTP API Server](/src/api)
 -   [WebSocket Gateway Server](/src/gateway)
 -   [HTTP CDN Server](/src/cdn)
 -   [Utility and Database Models](/src/util)
 
-## [Contributing](https://docs.fosscord.com/contributing/)
+## [Contributing](https://labs.techspaces.club/contributing/)
 
-## [Setup](https://docs.fosscord.com/setup/server/)
+## [Setup](https://labs.techspaces.club/setup/server/)
